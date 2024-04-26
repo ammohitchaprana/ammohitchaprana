@@ -1,8 +1,6 @@
 <h1 align="center">This is Mohit Chaprana (MCR)</h1>
 <h3 align="center">2x Founder & CEO @ Liveupx | Co-founder @ MentorJi | Not a TEDx Speaker</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammohitchaprana" alt="ammohitchaprana" /></a> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ammohitchaprana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
