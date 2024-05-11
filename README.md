@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I'm an Indian Classical Vocalist & Western Classical Instrumentalist Turned Developer Turned Entrepreneur**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
