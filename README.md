@@ -2,9 +2,6 @@
 <h3 align="center">2x Founder & CEO @ Liveupx | Co-founder @ MentorJi | Angel Investor</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/ammohitchaprana" target="blank"><img src="https://img.shields.io/twitter/follow/ammohitchaprana?logo=twitter&style=for-the-badge" alt="ammohitchaprana" /></a> </p> -->
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
