@@ -11,6 +11,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ammohitchaprana/ammohitchaprana/output/snake.svg" alt="Snake animation" />
+
+###
+
 - 🔭 Founder & CEO at [Liveupx - Best Software Development & Digital Marketing Company](http://liveupx.com)
 
 - 🌱 I’m currently learning **Quantum Physics, Quantum Computing, Advance Mathematics, Advance Programming, Psychology, Philosophy, Advance Marketing,**
