@@ -2,6 +2,16 @@
 <h3 align="center">2x Founder & CEO @ Liveupx | Co-founder @ MentorJi | Angel Investor</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/ammohitchaprana" target="blank"><img src="https://img.shields.io/twitter/follow/ammohitchaprana?logo=twitter&style=for-the-badge" alt="ammohitchaprana" /></a> </p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammohitchaprana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammohitchaprana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ammohitchaprana/ammohitchaprana/output/snake.svg" alt="Snake animation" />
+
+###
 
 - 🔭 Founder & CEO at [Liveupx - Best Software Development & Digital Marketing Company](http://liveupx.com)
 
