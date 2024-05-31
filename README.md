@@ -1,6 +1,6 @@
 <h1 align="center">This is Mohit Chaprana (MCR)</h1>
 <h3 align="center">2x Founder & CEO @ Liveupx | Co-founder @ MentorJi | Angel Investor</h3>
-<!-- <p align="left"> <a href="https://twitter.com/ammohitchaprana" target="blank"><img src="https://img.shields.io/twitter/follow/ammohitchaprana?logo=twitter&style=for-the-badge" alt="ammohitchaprana" /></a> </p> -->
+<!-- <p align="left"> <a href="https://twitter.com/ammohitchaprana" target="blank"><img src="https://img.shields.io/twitter/follow/ammohitchaprana?logo=twitter&style=for-the-badge" alt="ammohitchaprana" /></a> </p> --> 
 
 ###  
 <div align="center">
