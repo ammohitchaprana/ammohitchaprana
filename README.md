@@ -8,7 +8,6 @@
 </div>
 
 ###
-
 - 🔭 Founder & CEO at [Liveupx - Best Software Development & Digital Marketing Company](http://liveupx.com)
 
 - 🌱 I’m currently learning **Quantum Physics, Quantum Computing, Advance Mathematics, Advance Programming, Psychology, Philosophy, Advance Marketing,**
