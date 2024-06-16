@@ -1,15 +1,13 @@
 <h1 align="center">This is Mohit Chaprana (MCR)</h1>
 <h3 align="center">2x Founder & CEO @ Liveupx | Co-founder @ MentorJi | Angel Investor</h3>
 
-[![Liveupx](img/liveupx_resized.png)](https://liveupx.com) | [![MentorJi](img/mentorji_resized.png)](https://mentorji.com) | [![AlfaCare](img/alfacare_resized.png)](https://alfacare.com)
-
 <div style="display: flex; align-items: center;">
   <a href="https://liveupx.com" target="_blank">
     <img src="img/liveupx.png" alt="Liveupx" style="height: 40px;" /> </a>
-  <span style="padding: 0 5px;">|</span>  <a href="https://mentorji.com" target="_blank">
+ <a href="https://mentorji.com" target="_blank">
     <img src="img/mentorji.png" alt="MentorJi" style="height: 40px;" />
   </a>
-  <span style="padding: 0 5px;">|</span>
+
   <a href="https://alfacare.com" target="_blank">
     <img src="img/alfacare.png" alt="AlfaCare" style="height: 40px;" />
   </a>
