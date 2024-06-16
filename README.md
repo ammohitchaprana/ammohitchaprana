@@ -4,11 +4,11 @@
 <div style="display: flex; align-items: center;">
   <a href="https://liveupx.com" target="_blank">
     <img src="img/liveupx.png" alt="Liveupx" style="height: 40px;" /> </a>
- <a href="https://mentorji.com" target="_blank">
+ <a href="https://mentorji.live" target="_blank">
     <img src="img/mentorji.png" alt="MentorJi" style="height: 40px;" />
   </a>
 
-  <a href="https://alfacare.com" target="_blank">
+  <a href="https://alfacare.app" target="_blank">
     <img src="img/alfacare.png" alt="AlfaCare" style="height: 40px;" />
   </a>
 </div>
