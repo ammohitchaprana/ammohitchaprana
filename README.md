@@ -1,5 +1,5 @@
 <h1 align="center">This is Mohit Chaprana (MCR)</h1>
-<h3 align="center">2x Founder & CEO @ Liveupx | Co-founder @ MentorJi | Angel Investor</h3>
+<h3 align="center">2x Founder & CEO @ Liveupx | Co-founder & CTO @ MentorJi | Angel Investor</h3>
 
 <div align="center">
 <img src="img/all-x.png">
