@@ -1,7 +1,7 @@
 <h1 align="center">Mohit Chaprana (MCR)</h1>
 <h3 align="center">3x Founder & CEO @ Liveupx | Co-founder & CTO @ MentorJi | Angel Investor</h3>
 <div align="center"> 
-<img src="mohit-inkedIn.png">
+<img src="img/kkk.png">
 </div>
   
 ###
@@ -10,6 +10,11 @@
 </div>
 
 ###
+
+<img src="img/Liveupx-ss.png">
+<img src="img/mentorji-ss.png">
+<img src="img/widgetx-ss.png">
+<img src="img/Pitch-deck-agency-ss.png">
 
 - 🔭 Founder & CEO at [Liveupx - Best Software Development & Digital Marketing Company](http://liveupx.com)
 
