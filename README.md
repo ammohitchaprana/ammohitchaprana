@@ -11,10 +11,10 @@
 
 ###
 
-<img src="img/Liveupx-ss.png">
-<img src="img/mentorji-ss.png">
-<img src="img/widgetx-ss.png">
-<img src="img/Pitch-deck-agency-ss.png">
+<a href="https://liveupx.com"><img src="img/Liveupx-ss.png"> </a>
+<a href="https://mentorji.live"><img src="img/mentorji-ss.png"></a>
+<a href="https://widgetx.site"><img src="img/widgetx-ss.png"></a>
+<a href="https://pitch-deck.agency"><img src="img/Pitch-deck-agency-ss.png"></a>
 
 - 🔭 Founder & CEO at [Liveupx - Best Software Development & Digital Marketing Company](http://liveupx.com)
 
