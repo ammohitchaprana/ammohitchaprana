@@ -3,12 +3,11 @@
 <div align="center"> 
 <img src="img/kkk.png">
 </div>
-
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ammohitchaprana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-###
+
 
 <a href="https://liveupx.com"><img src="img/Liveupx-ss.png"></a>
 <a href="https://mentorji.live"><img src="img/mentorji-ss.png"></a>
