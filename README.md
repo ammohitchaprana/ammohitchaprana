@@ -4,9 +4,8 @@
 <img src="img/kkk.png">
 </div>
 
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ammohitchaprana)](https://mohit.pages.dev)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ammohitchaprana)](https://git.io/streak-stats)
+
 
 <a href="https://liveupx.com"><img src="img/Liveupx-ss.png"></a>
 <a href="https://mentorji.live"><img src="img/mentorji-ss.png"></a> 
