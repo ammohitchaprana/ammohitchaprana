@@ -1,5 +1,5 @@
 <h1 align="center">Mohit Chaprana (MCR)</h1>
-<h3 align="center">4x Founder | Serial Entrepreneur  | Angel Investor</h3>
+<h3 align="center">Serial Entrepreneur  | Angel Investor</h3>
 <div align="center"> 
 <img src="img/kkk.png">
 </div>
