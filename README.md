@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [http://liveupx.com](http://liveupx.com)
 
-- 📝 I regularly write on Quora [https://www.quora.com/profile/Mohit-Chaprana-2](https://www.quora.com/profile/Mohit-Chaprana-2)
+- 📝 I regularly write on Linkedin  [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7292138370103750656](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7292138370103750656)
 
 - 💬 Ask me about **Software Development, Marketing, Investments, Startups, Entrepreneurship, Automations & Education**
 
