@@ -6,10 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ammohitchaprana)](https://git.io/streak-stats)
 
-<a href="https://liveupx.com"><img src="img/Liveupx-ss.png"></a>
-<a href="https://mentorji.live"><img src="img/mentorji-ss.png"></a> 
-<a href="https://widgetx.site"><img src="img/widgetx-ss.png"></a>
-<a href="https://pitch-deck.agency"><img src="img/Pitch-deck-agency-ss.png"></a>
+<img src="img/lx.png">
 
 - 🔭 Founder & CEO at [Liveupx - Best Software Development & Digital Marketing Company](http://liveupx.com)
 
