@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ammohitchaprana)](https://git.io/streak-stats)
 
-<img src="img/lx.png">
+<img src="img/LX-final.png">
 
 - 🔭 Founder & CEO at [Liveupx - Best Software Development & Digital Marketing Company](http://liveupx.com)
 
