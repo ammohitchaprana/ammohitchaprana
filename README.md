@@ -8,26 +8,6 @@
 
 <img src="img/LX-final.png">
 
-- 🔭 Founder & CEO at [Liveupx - Best Software Development & Digital Marketing Company](http://liveupx.com)
-
-- 🌱 I’m currently learning **Quantum Physics, Quantum Computing, Advance Mathematics, Advance Programming, Psychology, Philosophy, Advance Marketing,**
-
-- 👯 Co-founder & CTO at [MentorJi - An e-learning platform for IIT/JEE, NEET, CUET, SSC & UPSC](http://mentorji.live)
-
-- 🤝 I’m looking for Teacher & Mentors to Join Me [MentorJi](http://mentorji.live)
-
-- 👨‍💻 All of my projects are available at [http://liveupx.com](http://liveupx.com)
-
-- 📝 I regularly write on Linkedin  [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7292138370103750656](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7292138370103750656)
-
-- 💬 Ask me about **Software Development, Marketing, Investments, Startups, Entrepreneurship, Automations & Education**
-
-- 📫 How to reach me **ceo@liveupx.com**, and share your pitch **decks at pitch@liveupx.com**
-
-- 📄 Know about me [https://liveupx.com/team/mohit-chaprana/](https://liveupx.com/team/mohit-chaprana/)
-
-- ⚡ Fun fact **I'm an Indian Classical Vocalist & Western Classical Instrumentalist Turned Developer Turned Entrepreneur**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ammohitchaprana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ammohitchaprana" height="30" width="40" /></a>
