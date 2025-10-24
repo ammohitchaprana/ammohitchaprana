@@ -3,11 +3,8 @@
 <div align="center"> 
 <img src="img/kkk.png">
 </div>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ammohitchaprana)](https://git.io/streak-stats)
-
 <img src="img/LX-final.png">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ammohitchaprana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ammohitchaprana" height="30" width="40" /></a>
