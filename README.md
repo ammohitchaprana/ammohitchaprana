@@ -3,7 +3,6 @@
 <div align="center"> 
 <img src="img/kkk.png">
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ammohitchaprana)](https://git.io/streak-stats)
 <img src="img/LX-final.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
