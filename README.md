@@ -1,6 +1,6 @@
 <h1 align="center">Mohit Chaprana (MCR)</h1>
 <h3 align="center">Serial Entrepreneur  | Angel Investor</h3>
-Liveupx.com | MentorJi.live | JustHunt.co | xHost.live | BCPInfra.in
+
 <div align="center"> 
 <img src="img/kkk.png">
 </div>
