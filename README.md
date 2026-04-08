@@ -60,6 +60,8 @@
 - 🧮 **[SuperCalc](https://chromewebstore.google.com/detail/supercalc-%E2%80%93-smart-calcula/gbpbheecbemddealgccbjaminpdfjifo)** — Smart calculator
 - 🖼️ **[Convert HEIC to JPG](https://chromewebstore.google.com/detail/convert-heic-to-jpg/cmclimkfcjpgbedadipbfmpeakjfklmi)** — One-click HEIC → JPG converter
 - 🎥 **[RecordPro](https://chromewebstore.google.com/detail/recordpro-screen-recorder/fhmebbenlfbbdaaakoeikofbpinpcfpb)** — Screen recorder
+- 🔥 **[X Account Labeler](https://chromewebstore.google.com/detail/x-account-labeler/olddccdenkempoaohcneepimbomcenao)** — Custom Tags for X Profiles
+- 🔥 **[Website Speed Auditor](https://chromewebstore.google.com/detail/website-speed-auditor/ehipadngildclniokdbejkflfooeokac)** — One-Click Performance Audit
 
 ## WordPress Plugins
 
