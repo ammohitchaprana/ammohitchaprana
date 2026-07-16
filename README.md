@@ -13,7 +13,7 @@
 ![Telegram](https://img.shields.io/badge/-Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
 
-> Started coding at 15 in a small town in India. Today — running 4 companies, shipped 500+ projects, serving 40+ enterprise clients across 10+ countries. Still a lifelong student.
+> Started coding at 15 in a small town in India. Today — running multiple companies, shipped 500+ projects, serving 40+ enterprise clients across 10+ countries. Still a lifelong student.
 
 💡 *"Believe in 5Ps: Perfect Practice Prevents Poor Performance"*
 
@@ -22,36 +22,53 @@
 ```
 2016 → Started the tech adventure — mastered 8+ programming languages
 2019 → Founded Liveupx — software dev studio, now 500+ projects shipped
-2023 → Launched MentorJi — edtech platform (shut down)
+2023 → Launched MentorJi — edtech platform for JEE/NEET/UPSC prep
 2024 → Founded C. Impact Foundation (Chaahat.org) — NGO for underprivileged children
 2024 → Made first angel investment
 2024 → Launched Pitch Deck Agency — pitch.liveupx.com
 2024 → Started building Widgetx AI (now EnjoHelp AI) — solo
 2025 → Started BharatCore Projects (BCPinfra.in) — construction & infra
-2026 → Launched xHost.live — AI-based cloud hosting
-2026 → Launched JustHunt.co — #1 startup launchpad
-2026 → EnjoHelp AI — launching soon
+2026 → Launched xHost.live — AI-based cloud hosting (23 acquisition offers)
+2026 → Launched JustHunt.co — #1 startup launchpad, 1000+ startups launched
+2026 → Building EnjoHelp AI, BroDM, Reimburse.cc, ConnectApp — launching soon
 ```
 
-## Current Ventures
+## Companies
 
 - 🏢 **[Liveupx](https://liveupx.com)** — Custom AI & software dev studio. SaaS, AI automation, enterprise software. 500+ projects, 40+ clients, 10+ countries.
-- 🏗️ **[BCPinfra](https://bcpinfra.in)** *(BharatCore Projects Pvt Ltd)* — Construction, design & infrastructure across India. Trusted by Government of India. UPPCL contracts & tenders.
-- ❤️ **[Chaahat.org](https://chaahat.org)** *(C. Impact Foundation)* — NGO uplifting underprivileged children through education, meals & clothing.
-- ⚡ **SRMD Power** — NPCL contracts & tenders
+- 🏗️ **BharatCore Projects (BCPL)** — [bcpinfra.in](https://bcpinfra.in) — Construction, interior design & infrastructure across Delhi NCR. Trusted by Government of India. UPPCL contracts & tenders.
+- ⚡ **SRMD Power Enterprises** — UPPCL & NPCL contracts and tenders.
+- ❤️ **[Chaahat Foundation](https://chaahat.org)** *(C. Impact Foundation)* — NGO uplifting underprivileged children through education, meals & clothing.
 
 ## Products & Platforms
 
-- 🚀 **[JustHunt.co](https://justhunt.co)** — #1 Startup launchpad — launch & discover new tech products
-- 🌐 **[xHost.live](https://xhost.live)** — AI-based cloud hosting platform for developers & agencies
-- 🤖 **EnjoHelp AI** *(formerly Widgetx AI)* — Train AI chatbots on your knowledge base. Automate support, capture leads, manage tickets — one platform. *(launching soon)*
-- 📊 **[PitchDeck](https://pitchdeck.liveupx.com)** — Premium pitch deck design agency. Designed to secure investments.
-- 🧱 **[Build8](https://build8.lovable.app/)** — Web builder *(coming soon)*
-- 🧬 **[BioSentinel](https://biosentinel.xhost.live)** — Open source — AI-powered longitudinal health analysis. Predicts cancer & serious diseases years before symptoms using 3+ years of health data.
-- 📧 **[Apollo Scraper](https://apollo-email-scraper.xhost.live)** — Open source — Apollo email scraping tool
-- 👨‍🏫 **MentorJi.live** — EdTech mentorship platform with live classes & e-tuitions *(shut down)*
-- 📱 **Gurjar.app** — Community platform *(acquired)*
-- 📞 **PhonePicks** — Find your perfect phone in under 5 minutes. Smart phone decision engine. *(acquired)*
+### Live
+
+- 🚀 **[JustHunt.co](https://justhunt.co)** — #1 startup launchpad. Launch & discover new tech products — 1000+ startups launched and growing. Also the digital marketing, SEO, GEO, PPC & growth vertical of Liveupx — the engine driving visibility, qualified traffic and measurable results across search and paid.
+- 🌐 **[xHost.live](https://xhost.live)** — AI-based cloud hosting platform for developers & agencies. *(23 acquisition offers received)*
+- 📊 **[PitchDeck](https://pitch.liveupx.com)** — Pitch-deck and presentation studio. Investor-ready storytelling for fundraising, partnerships and clinical/B2B communication.
+- 🎨 **KLIP Agency** — Social media management, branding, creative content and video editing. The brand's voice, visual identity, and the content that powers every channel.
+- 🏫 **[SmartEdmin.com](https://smartedmin.com)** — All-in-one school management system. Ready-made or custom packages priced by school size — onboarding, data migration and training included. No hidden module fees, ever.
+- 👨‍🏫 **[MentorJi.live](https://mentorji.live)** — EdTech platform for Foundation, JEE, NEET, CUET, UPSC & SSC — mock tests, PYQs, courses and live classes.
+- 📱 **Gurjar.app** — Community platform, 215k users. *(acquisition talks ongoing — 40+ offers)*
+
+### Open Source
+
+- 🧬 **[BioSentinel](https://github.com/liveupx/biosentinel)** — AI-powered longitudinal health analysis. Predicts cancer & serious diseases years before symptoms using 3+ years of health data. *(free & open source)*
+- 📧 **[Apollo Scraper](https://apollo-email-scraper.xhost.live)** — Apollo email scraping tool. *(free & open source)*
+
+### In Development
+
+- 🤖 **EnjoHelp AI** *(formerly Widgetx AI)* — Train AI chatbots on your knowledge base. Automate support, capture leads, manage tickets — one platform.
+- 🧱 **[Build8](https://build8.lovable.app/)** — AI vibe-coding platform by Liveupx.
+- 💬 **BroDM.com** — Instagram comment-to-DM automation + an Instagram AI agent that engages every lead instantly. Converts followers into customers 24/7.
+- 🧾 **Reimburse.cc** — Expense reimbursement SaaS with multi-level approval workflows, receipt capture, real-time budgets and a tamper-proof audit trail. Multi-tenant and secure from day one.
+- 🌍 **ConnectApp.cc** — Social platform for Europe: Telegram-like chat, TikTok-like short videos, Zoom-like spaces, Udemy-like courses, and XP points for every action.
+
+### Exited
+
+- 📝 **LalaForms** — Typeform / Google Forms alternative. *(sold)*
+- 📞 **PhonePicks** — Find your perfect phone in under 5 minutes. Smart phone decision engine. *(sold)*
 
 ## Chrome Extensions
 
@@ -60,8 +77,8 @@
 - 🧮 **[SuperCalc](https://chromewebstore.google.com/detail/supercalc-%E2%80%93-smart-calcula/gbpbheecbemddealgccbjaminpdfjifo)** — Smart calculator
 - 🖼️ **[Convert HEIC to JPG](https://chromewebstore.google.com/detail/convert-heic-to-jpg/cmclimkfcjpgbedadipbfmpeakjfklmi)** — One-click HEIC → JPG converter
 - 🎥 **[RecordPro](https://chromewebstore.google.com/detail/recordpro-screen-recorder/fhmebbenlfbbdaaakoeikofbpinpcfpb)** — Screen recorder
-- 🔥 **[X Account Labeler](https://chromewebstore.google.com/detail/x-account-labeler/olddccdenkempoaohcneepimbomcenao)** — Custom Tags for X Profiles
-- 🔥 **[Website Speed Auditor](https://chromewebstore.google.com/detail/website-speed-auditor/ehipadngildclniokdbejkflfooeokac)** — One-Click Performance Audit
+- 🔥 **[X Account Labeler](https://chromewebstore.google.com/detail/x-account-labeler/olddccdenkempoaohcneepimbomcenao)** — Custom tags for X profiles
+- 🔥 **[Website Speed Auditor](https://chromewebstore.google.com/detail/website-speed-auditor/ehipadngildclniokdbejkflfooeokac)** — One-click performance audit
 
 ## WordPress Plugins
 
@@ -103,10 +120,12 @@
 ### Recognition
 
 - Founded **Liveupx** at 18 — bootstrapped to 500+ projects, 40+ enterprise clients across 10+ countries
-- **4 companies** running simultaneously across software, AI, construction & non-profit
-- **2 products acquired** (Gurjar.app, PhonePicks)
-- **5 Chrome extensions** published on Chrome Web Store
-- **2 WordPress plugins** on the official plugin directory
+- **20+ ventures** built across software, AI, edtech, construction & non-profit
+- **2 products sold** (LalaForms, PhonePicks) — **Gurjar.app** in acquisition talks with 40+ offers
+- **xHost.live** — 23 acquisition offers
+- **JustHunt.co** — 1000+ startups launched
+- **7 Chrome extensions** published on Chrome Web Store
+- **4 Telegram bots** and **2 WordPress plugins** on the official directory
 - **First-gen entrepreneur** from a farming family in a small town in India
 
 ### Philosophy
@@ -124,7 +143,7 @@ I don't wait for perfect. I build things that solve real problems, launch them, 
 - Mastered 8+ programming languages before graduating
 - From a farming family — first-gen entrepreneur and investor
 - Run 4 companies across completely different industries simultaneously
-- Built and shipped 5 Chrome extensions, 4 Telegram bots, 2 WP plugins, and multiple SaaS platforms
+- Built and shipped 7 Chrome extensions, 4 Telegram bots, 2 WP plugins, and multiple SaaS platforms
 - Made first angel investment in 2024
 - Believes in 5Ps: **P**erfect **P**ractice **P**revents **P**oor **P**erformance
 - Coffee-powered, chaos-driven, permanently shipping
