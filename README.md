@@ -122,11 +122,11 @@ UPPCL & NPCL contracts and tenders — power infrastructure execution.
 </td>
 <td width="50%" valign="top">
 
-#### 🌐 [xHost.live](https://xhost.live)
+#### 🌐 [tryHost.dev, formerly xHost](https://tryHost.dev)
 AI-based cloud hosting for developers & agencies. Connect GitHub, pick a project, go live in seconds.
 **🔥 23 acquisition offers received**
 
-<img src="media/screenshots/xhost.jpg" width="100%" alt="xHost.live">
+<img src="media/screenshots/xhost.jpg" width="100%" alt="tryHost.dev">
 
 </td>
 </tr>
@@ -141,7 +141,7 @@ Pitch-deck & presentation studio. Investor-ready storytelling for fundraising, p
 </td>
 <td width="50%" valign="top">
 
-#### 🎨 KLIP Agency
+#### 🎨 [KLIP Agency](https://klip.liveupx.com)
 Social media management, branding, creative content & video editing — the brand voice, visual identity and content engine.
 
 <img src="media/screenshots/klip-agency.jpg" width="100%" alt="KLIP Agency">
