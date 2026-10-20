@@ -223,10 +223,10 @@ Chrome extension that exports Apollo.io contact data to CSV. No coding required.
 </td>
 <td width="50%" valign="top">
 
-#### 🧱 [Build8](https://build8.lovable.app/)
+#### 🧱 [Build88](https://build88.pp/)
 AI vibe-coding platform by Liveupx — describe it, ship it.
 
-<a href="media/videos/build8.mp4"><img src="media/thumbs/build8.jpg" width="100%" alt="Build8"></a>
+<a href="media/videos/build8.mp4"><img src="media/thumbs/build8.jpg" width="100%" alt="Build88"></a>
 <sub>▶️ Click to watch the demo</sub>
 
 </td>
