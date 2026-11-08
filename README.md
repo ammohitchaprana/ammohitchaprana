@@ -243,7 +243,7 @@ Instagram comment-to-DM automation + an AI agent that engages every lead instant
 </td>
 <td width="50%" valign="top">
 
-#### 🧾 Reimburse.cc
+#### 🧾 [Reimburse.cc](https://Reimburse.cc)
 Expense reimbursement SaaS — multi-level approvals, receipt capture, real-time budgets, tamper-proof audit trail. Multi-tenant and secure from day one.
 
 <a href="media/videos/reimburse.mp4"><img src="media/thumbs/reimburse.jpg" width="100%" alt="Reimburse.cc"></a>
